@@ -1,3 +1,4 @@
-raspberry pi pico W
+raspberry pi pico
 
-UartóM{Š„‚è‚İ{ƒŠƒ“ƒOƒoƒbƒtƒ@‚É‹l‚ß‚é
+Uartå—ä¿¡ï¼‹å‰²ã‚Šè¾¼ã¿ï¼‹ãƒªãƒ³ã‚°ãƒãƒƒãƒ•ã‚¡ã«è©°ã‚ã‚‹
+
